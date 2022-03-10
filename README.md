@@ -2,6 +2,7 @@
 
 ## Objectives
 
+
 1.  Describe what happens in the mounting phase of a React component's lifecycle
 2.  Describe what happens in the unmounting phase of a React component's
     lifecycle
@@ -23,6 +24,7 @@ In order to get our timers working properly, we will need to use component
 lifecycle methods to handle initiating and clearing an interval.
 
 ## Deliverables
+
 
 To pass the tests in this lab, you will need to write `componentDidMount` and
 `componentWillUnmount` methods where necessary in `App.js` and `Timer.js`.
